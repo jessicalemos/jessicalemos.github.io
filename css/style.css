@@ -510,7 +510,7 @@ pre {
 
     .timeline > li {
         margin-bottom: 20px;
-        position: relative;
+        position: sticky;
     }
 
         .timeline > li:before,
